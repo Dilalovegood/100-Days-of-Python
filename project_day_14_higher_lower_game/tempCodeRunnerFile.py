@@ -1,0 +1,1 @@
+account_b = random.choice(data)
